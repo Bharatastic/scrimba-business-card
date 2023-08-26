@@ -1,1 +1,8 @@
-A business card that is build with purely HTML & CSS.
+A business card that is built with purely HTML & CSS.
+
+Quick start:
+
+```
+$ npm install
+$ npm start
+````
